@@ -1,4 +1,4 @@
-<h1>Projeto Lógico de Banco de Dados - Desafio Digital Innovatio One</h1>
+<h1>Projeto Lógico de Banco de Dados - Desafio Digital Innovation One</h1>
 
 <h2>Descrição do Desafio</h2>
 <p>Replique a modelagem do projeto lógico de banco de dados para o cenário de e-commerce. Fique atento as definições de chave primária e estrangeira, 
