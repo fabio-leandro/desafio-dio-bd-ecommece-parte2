@@ -1,4 +1,4 @@
-#Projeto Lógico de Banco de Dados - Desafio Digital Innovatio One
+<h1>Projeto Lógico de Banco de Dados - Desafio Digital Innovatio One</h1>
 
 <h2>Descrição do Desafio</h2>
 <p>Replique a modelagem do projeto lógico de banco de dados para o cenário de e-commerce. Fique atento as definições de chave primária e estrangeira, 
@@ -32,3 +32,5 @@ crie queries SQL com as cláusulas abaixo:</p>
   <li>Elabore perguntas que podem ser respondidas pelas consultas;</li>
   <li>As cláusulas podem estar presentes em mais de uma query;</li>
 </ul>
+
+<img src="https://github.com/fabio-leandro/desafio-dio-bd-ecommece-parte2/blob/main/MODELO%20CONCEITUAL%20RELACIONAL.png" alt="Modelo Conceitual Ecommerce"/>
